@@ -255,8 +255,8 @@ namespace Isola
                 throw new ArgumentOutOfRangeException();
             }
             int random = randomGenerator.Next(0, availableCells.Count - 1);
-            int[] returnArray = new int[2] { availableCells[random][0], availableCells[random][1] };
-            return returnArray;
+            int[] result = new int[2] { availableCells[random][0], availableCells[random][1] };
+            return result;
         }
 
         public static void MoveToCell(string[,] board, int[] player, int newPositionX, int newPositionY, string emptyCell)
