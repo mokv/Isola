@@ -1,0 +1,6 @@
+D:\Projects\Visual Studio\Isola\Isola\bin\Debug\Isola.exe.config
+D:\Projects\Visual Studio\Isola\Isola\bin\Debug\Isola.exe
+D:\Projects\Visual Studio\Isola\Isola\bin\Debug\Isola.pdb
+D:\Projects\Visual Studio\Isola\Isola\obj\Debug\Isola.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\Isola\Isola\obj\Debug\Isola.exe
+D:\Projects\Visual Studio\Isola\Isola\obj\Debug\Isola.pdb
